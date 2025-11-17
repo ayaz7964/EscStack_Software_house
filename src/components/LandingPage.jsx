@@ -8,7 +8,7 @@ function LandingPage() {
   return (
     <div>
       <HeroSection />
-      <BrandScroller />
+      {/* <BrandScroller /> */}
       <EscStackLanding />
       <ContactSidebar />
     </div>
